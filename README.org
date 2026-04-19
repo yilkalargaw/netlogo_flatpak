@@ -1,0 +1,4 @@
+* netlogo flatpak
+
+This is me trying to oo package netlogo as a learning experiance for
+flatpak packaging.
