@@ -14,7 +14,6 @@ build-options:
 
 finish-args:
   - --socket=x11
-  - --socket=wayland
   - --share=network
   - --share=ipc
   - --device=dri
