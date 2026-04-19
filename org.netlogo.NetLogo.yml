@@ -53,9 +53,6 @@ modules:
       - install -Dm644 icons/hicolor/64x64/apps/org.netlogo.NetLogo.png  /app/share/icons/hicolor/64x64/apps/org.netlogo.NetLogo.png
       - install -Dm644 icons/hicolor/48x48/apps/org.netlogo.NetLogo.png  /app/share/icons/hicolor/48x48/apps/org.netlogo.NetLogo.png
 
-      # icon cache
-      - gtk-update-icon-cache -f /app/share/icons/hicolor || true
-
     sources:
       - type: archive
         url: https://downloads.netlogo.org/7.0.3/NetLogo-7.0.3-64.tgz
