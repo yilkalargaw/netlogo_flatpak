@@ -4,5 +4,5 @@ Comment=Multi-agent programmable modeling environment
 Exec=netlogo-wrapper.sh
 Icon=org.netlogo.NetLogo
 Type=Application
-Categories=Education;Science;
+Categories=Education;Science;Development;
 Terminal=false
